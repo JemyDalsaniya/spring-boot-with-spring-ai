@@ -1,6 +1,6 @@
-package org.example.springaidemo.service;
+package com.spring.ai.demo.service;
 
-import org.example.springaidemo.model.CityList;
+import com.spring.ai.demo.model.CityList;
 import org.springframework.ai.chat.ChatClient;
 import org.springframework.ai.chat.ChatResponse;
 import org.springframework.ai.chat.prompt.Prompt;

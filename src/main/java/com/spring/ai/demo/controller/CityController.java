@@ -1,7 +1,7 @@
-package org.example.springaidemo.controller;
+package com.spring.ai.demo.controller;
 
-import org.example.springaidemo.model.CityList;
-import org.example.springaidemo.service.CityService;
+import com.spring.ai.demo.model.CityList;
+import com.spring.ai.demo.service.CityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

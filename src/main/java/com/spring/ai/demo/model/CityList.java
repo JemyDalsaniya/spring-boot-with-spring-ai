@@ -1,4 +1,4 @@
-package org.example.springaidemo.model;
+package com.spring.ai.demo.model;
 
 import lombok.Getter;
 import lombok.Setter;
